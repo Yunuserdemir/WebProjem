@@ -1,0 +1,20 @@
+
+.Sayfa { 
+width: 960px; 
+margin:0 auto; 
+background-color: burlywood; 
+}
+
+.Anasayfa { 
+width: 300px; 
+height: 600px; 
+float:left; 
+background-color: aqua;  
+}
+
+.Fikirler { 
+width: 660px; 
+height: 600px; 
+float:left; 
+background-color: gold; 
+}
